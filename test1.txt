@@ -1,0 +1,1 @@
+This was to practice the creation of the file test1.txt, using the command touch XXX, to create a file with the name of filetype e.g .rb, .txt, etc. 
